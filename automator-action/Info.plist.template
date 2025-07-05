@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMAccepts</key>
+	<dict>
+		<key>Container</key>
+		<string>List</string>
+		<key>Optional</key>
+		<false/>
+		<key>Types</key>
+		<array>
+			<string>com.apple.cocoa.path</string>
+		</array>
+	</dict>
+	<key>AMApplication</key>
+	<array>
+		<string>Photos</string>
+	</array>
+	<key>AMCategory</key>
+	<string>AMCategoryPhotos</string>
+	<key>AMDefaultParameters</key>
+	<dict/>
+	<key>AMDescription</key>
+	<dict>
+		<key>AMDAlert</key>
+		<string></string>
+		<key>AMDInput</key>
+		<string>Image Files</string>
+		<key>AMDRelatedActions</key>
+		<string></string>
+		<key>AMDResult</key>
+		<string>Image Files</string>
+		<key>AMDSummary</key>
+		<string>This action removes the backgrounds of the specified images.</string>
+		<key>AMDWebsite</key>
+		<string></string>
+	</dict>
+	<key>AMIconName</key>
+	<string>Preview</string>
+	<key>AMKeywords</key>
+	<array>
+		<string>Image</string>
+		<string>Background</string>
+		<string>Remove</string>
+		<string>Photo</string>
+		<string>Process</string>
+	</array>
+	<key>AMName</key>
+	<string>Remove Image Backgrounds</string>
+	<key>AMProvides</key>
+	<dict>
+		<key>Container</key>
+		<string>List</string>
+		<key>Types</key>
+		<array>
+			<string>com.apple.cocoa.path</string>
+		</array>
+	</dict>
+	<key>AMRequiredResources</key>
+	<array/>
+	<key>AMVersion</key>
+	<string>{{VERSION}}</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>Remove Image Backgrounds</string>
+	<key>CFBundleIdentifier</key>
+	<string>Wowfunhappy.automator.RemoveImageBackgrounds</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Remove Image Backgrounds</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>{{VERSION}}</string>
+	<key>CFBundleVersion</key>
+	<string>{{VERSION}}</string>
+</dict>
+</plist>
